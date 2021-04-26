@@ -1,0 +1,7 @@
+C:\Users\Irenic\source\repos\read-exel\read-exel\bin\Debug\read-exel.exe.config
+C:\Users\Irenic\source\repos\read-exel\read-exel\bin\Debug\read-exel.exe
+C:\Users\Irenic\source\repos\read-exel\read-exel\bin\Debug\read-exel.pdb
+C:\Users\Irenic\source\repos\read-exel\read-exel\obj\Debug\read-exel.csprojAssemblyReference.cache
+C:\Users\Irenic\source\repos\read-exel\read-exel\obj\Debug\read-exel.csproj.CoreCompileInputs.cache
+C:\Users\Irenic\source\repos\read-exel\read-exel\obj\Debug\read-exel.exe
+C:\Users\Irenic\source\repos\read-exel\read-exel\obj\Debug\read-exel.pdb
